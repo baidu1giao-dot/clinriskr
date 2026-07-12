@@ -2,7 +2,7 @@
 
 ClinRiskR currently uses a maintainer-led governance model.
 
-The primary maintainer is the GitHub account zqp6mc579s-creator. The primary
+The primary maintainer is the GitHub account baidu1giao-dot. The primary
 maintainer is responsible for issue triage, pull-request review, releases,
 security coordination, and stewardship of the project's statistical scope.
 

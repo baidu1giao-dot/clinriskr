@@ -3,7 +3,7 @@ Title: Reproducible Binary Outcome Analysis for Small Clinical Cohorts
 Version: 0.1.0
 Authors@R:
     person("ClinRiskR", "Contributors",
-           email = "278454280+zqp6mc579s-creator@users.noreply.github.com",
+           email = "303987942+baidu1giao-dot@users.noreply.github.com",
            role = c("aut", "cre"))
 Description: Provides a privacy-conscious, reproducible workflow for binary
     outcome analyses in small clinical cohorts. It validates tabular inputs,
@@ -12,8 +12,8 @@ Description: Provides a privacy-conscious, reproducible workflow for binary
     writes an auditable set of tables, figures, and session metadata. A fully
     synthetic hypertensive-disorders-of-pregnancy example is included.
 License: MIT + file LICENSE
-URL: https://github.com/zqp6mc579s-creator/clinriskr
-BugReports: https://github.com/zqp6mc579s-creator/clinriskr/issues
+URL: https://github.com/baidu1giao-dot/clinriskr
+BugReports: https://github.com/baidu1giao-dot/clinriskr/issues
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3

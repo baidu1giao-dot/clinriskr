@@ -13,13 +13,13 @@ privacy-conscious, auditable outputs.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/zqp6mc579s-creator/clinriskr}
-  \item Report bugs at \url{https://github.com/zqp6mc579s-creator/clinriskr/issues}
+  \item \url{https://github.com/baidu1giao-dot/clinriskr}
+  \item Report bugs at \url{https://github.com/baidu1giao-dot/clinriskr/issues}
 }
 
 }
 \author{
-\strong{Maintainer}: ClinRiskR Contributors \email{278454280+zqp6mc579s-creator@users.noreply.github.com}
+\strong{Maintainer}: ClinRiskR Contributors \email{303987942+baidu1giao-dot@users.noreply.github.com}
 
 }
 \keyword{internal}
