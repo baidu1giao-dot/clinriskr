@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use ClinRiskR, please cite the software and archive the exact version."
+title: "ClinRiskR: Reproducible Binary Outcome Analysis for Small Clinical Cohorts"
+type: software
+version: 0.1.0
+date-released: 2026-07-12
+authors:
+  - name: "ClinRiskR contributors"
+repository-code: "https://github.com/zqp6mc579s-creator/clinriskr"
+license: MIT

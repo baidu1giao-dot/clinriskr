@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rcheck/
+*.tar.gz
+examples/results/
+results/
+private-data/
+.private/
+*.xlsx
+*.xls
+.DS_Store

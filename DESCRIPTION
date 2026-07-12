@@ -1,0 +1,34 @@
+Package: clinriskr
+Title: Reproducible Binary Outcome Analysis for Small Clinical Cohorts
+Version: 0.1.0
+Authors@R:
+    person("ClinRiskR", "Contributors",
+           email = "278454280+zqp6mc579s-creator@users.noreply.github.com",
+           role = c("aut", "cre"))
+Description: Provides a privacy-conscious, reproducible workflow for binary
+    outcome analyses in small clinical cohorts. It validates tabular inputs,
+    creates descriptive summaries, fits conventional and Firth logistic
+    regression models, evaluates apparent discrimination and calibration, and
+    writes an auditable set of tables, figures, and session metadata. A fully
+    synthetic hypertensive-disorders-of-pregnancy example is included.
+License: MIT + file LICENSE
+URL: https://github.com/zqp6mc579s-creator/clinriskr
+BugReports: https://github.com/zqp6mc579s-creator/clinriskr/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends:
+    R (>= 4.1.0)
+Imports:
+    ggplot2,
+    jsonlite,
+    logistf,
+    pROC,
+    readxl,
+    stats,
+    tools,
+    utils,
+    writexl
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

@@ -1,0 +1,24 @@
+{
+  "dataset_name": "My binary outcome cohort",
+  "id": "id",
+  "outcome": "outcome",
+  "continuous": [
+    "age",
+    "bmi",
+    "sbp",
+    "dbp",
+    "ua",
+    "plt"
+  ],
+  "categorical": [
+    "hdp_type",
+    "proteinuria"
+  ],
+  "predictors": [
+    "ua",
+    "sbp",
+    "hdp_type",
+    "plt",
+    "age"
+  ]
+}

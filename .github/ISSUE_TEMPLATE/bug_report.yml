@@ -1,0 +1,31 @@
+name: Bug report
+description: Report a reproducible software or output problem using synthetic data
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: "Never attach patient-level or confidential data."
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Synthetic reproduction
+      description: Provide the smallest reproducible example with synthetic data.
+      render: R
+    validations:
+      required: true
+  - type: textarea
+    id: session
+    attributes:
+      label: Session information
+      description: Paste sessionInfo() output with private paths removed.
+      render: text
+    validations:
+      required: true

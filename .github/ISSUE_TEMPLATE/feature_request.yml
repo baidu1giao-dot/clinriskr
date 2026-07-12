@@ -1,0 +1,19 @@
+name: Feature request
+description: Propose a documented research workflow improvement
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Research workflow
+      description: What reproducible task is currently difficult?
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Proposed behavior and evidence
+      description: Describe assumptions, output changes, and methodological references.
+    validations:
+      required: true

@@ -1,0 +1,18 @@
+variable,type,unit_or_levels,description
+id,identifier,integer,Synthetic participant identifier
+outcome,binary,"0; 1",Composite adverse outcome; 1 denotes event
+age,continuous,years,Maternal age
+bmi,continuous,kg/m2,Body mass index
+gravida,continuous,count,Number of pregnancies
+para,continuous,count,Parity
+sbp,continuous,mmHg,Systolic blood pressure
+dbp,continuous,mmHg,Diastolic blood pressure
+hdp_type,categorical,"GH; PE; Severe PE",Hypertensive disorder subtype
+proteinuria,categorical,"No; Yes",Proteinuria indicator
+ua,continuous,micromol/L,Uric acid
+plt,continuous,10^9/L,Platelet count
+alt,continuous,U/L,Alanine aminotransferase
+ast,continuous,U/L,Aspartate aminotransferase
+cr,continuous,micromol/L,Creatinine
+antihyp,categorical,"No; Yes",Antihypertensive treatment indicator
+mgso4,categorical,"No; Yes",Magnesium sulfate treatment indicator
