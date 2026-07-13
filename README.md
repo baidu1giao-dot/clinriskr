@@ -1,5 +1,10 @@
 # ClinRiskR
 
+[![R-CMD-check](https://github.com/baidu1giao-dot/clinriskr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/baidu1giao-dot/clinriskr/actions/workflows/R-CMD-check.yaml)
+[![GitHub release](https://img.shields.io/github/v/release/baidu1giao-dot/clinriskr)](https://github.com/baidu1giao-dot/clinriskr/releases/latest)
+[![License: MIT](https://img.shields.io/badge/license-MIT-2f6f4e.svg)](LICENSE.md)
+[![R >= 4.1](https://img.shields.io/badge/R-%3E%3D%204.1-276DC3.svg)](https://www.r-project.org/)
+
 Reproducible, privacy-conscious binary outcome analysis for small clinical
 cohorts.
 
@@ -131,6 +136,17 @@ transformations, and independent example datasets. See [ROADMAP.md](ROADMAP.md).
 
 Contributions, reproducible bug reports, documentation improvements, and
 validation studies are welcome. Start with [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Documentation and citation
+
+The [statistical methods guide](docs/statistical-methods.md) documents the
+estimands, missing-data behavior, model fitting, performance measures, and
+current limitations. A complete synthetic workflow is available in
+[`scripts/run_example.R`](scripts/run_example.R).
+
+If ClinRiskR supports your work, cite the software metadata in
+[`CITATION.cff`](CITATION.cff). GitHub also provides a formatted citation from
+the repository's **Cite this repository** menu.
 
 ## License
 
